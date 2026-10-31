@@ -114,7 +114,9 @@ As noted in the model card, be aware of these limitations:
 
 ## License
 
-The Phi-4 model is licensed under the MIT license.
+The code in this repository is licensed under the [Apache License 2.0](LICENSE).
+
+The model weights are not covered by this license. [microsoft/Phi-4-multimodal-instruct](https://huggingface.co/microsoft/Phi-4-multimodal-instruct) is released under the [MIT](https://huggingface.co/microsoft/Phi-4-multimodal-instruct/resolve/main/LICENSE) license.
 
 ## Citations
 
